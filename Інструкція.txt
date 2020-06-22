@@ -1,0 +1,4 @@
+c - create directory
+f - create file
+d - delete file or directory
+k - copy directory
